@@ -15,8 +15,6 @@
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    [Ella](https://lh3.googleusercontent.com/Z5cba1SRVxnnE7gG_369WnqYohZI_0oqwqTpXl8UwZHsJhrp2QfzdIUDpnBbNe7NncIzYrNUBqW28fNqLAHeoYM=s100)
-    ![rect_b_w](https://user-images.githubusercontent.com/85962939/129493561-dfd1efd7-2039-4e96-9bf5-ce8d2e1726ce.jpg)
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
